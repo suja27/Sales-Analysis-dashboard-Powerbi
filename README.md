@@ -52,7 +52,7 @@ The Chocolate Sales Dashboard offers a dynamic, user-friendly interface for unde
 
 ## 📁 Files Included
 
-- `ChocolateDashboard.pbix` – Main Power BI file containing visuals and insights
+- `Sales_Analysis_dashboard.pbix` – Main Power BI file containing visuals and insights
 - `README.md` – Documentation for project overview and usage
 
 > Created by **Sujatha Ahilan**
